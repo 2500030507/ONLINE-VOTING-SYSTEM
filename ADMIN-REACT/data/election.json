@@ -1,0 +1,44 @@
+{
+  "schedule": {
+    "date": "2026-11-26",
+    "start": "04:00",
+    "end": "19:15"
+  },
+  "candidates": [
+    {
+      "name": "avinash",
+      "party": "DS"
+    },
+    {
+      "name": "akhil",
+      "party": "python"
+    },
+    {
+      "name": "akshay",
+      "party": "FEND"
+    }
+  ],
+  "votes": {
+    "422923": {
+      "candidate": "avinash",
+      "recordedAt": "2026-11-05T09:20:44.522Z"
+    },
+    "789654": {
+      "candidate": "akhil",
+      "recordedAt": "2026-11-25T22:34:59.499Z"
+    },
+    "910909": {
+      "candidate": "avinash",
+      "recordedAt": "2026-11-05T09:26:37.247Z"
+    },
+    "085480": {
+      "candidate": "avinash",
+      "recordedAt": "2026-11-25T13:41:12.317Z"
+    },
+    "085408": {
+      "candidate": "AVINASH",
+      "recordedAt": "2026-11-25T13:43:24.293Z"
+    }
+  },
+  "publishedResults": null
+}
